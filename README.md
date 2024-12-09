@@ -23,10 +23,9 @@ I am a FullStack Developer passionate about creating applications, frontend and 
 ### 🗂️ Featured Projects
 
 #### 🌟 [Portfolio](https://github.com/Purged391/portfolio)
-**Description:** This is my personal portfolio, where I showcase my web development skills, projects, and professional experience. It is designed to capture the attention of companies and recruiters, demonstrating my capabilities and knowledge in the latest technologies.
-
-**Technologies:** Angular, TypeScript, HTML, CSS, Sass, Git
-**Repository:** [Repository Link](https://github.com/Purged391/portfolio)
+* **Description:** This is my personal portfolio, where I showcase my web development skills, projects, and professional experience. It is designed to capture the attention of companies and recruiters, demonstrating my capabilities and knowledge in the latest technologies.
+* **Technologies:** Angular, TypeScript, HTML, CSS, Sass, Git
+* **Repository:** [Repository Link](https://github.com/Purged391/portfolio)
 
 ---
 
