@@ -4,10 +4,10 @@
 I am a FullStack Developer passionate about creating applications, frontend and backend, with the last technologies used in the companies. With experience in web development, APIs and Microservices development, Governance, Bank knowledge, I enjoy building applications and deploying in real environments.
 
 
-🌎 Based in: Spain, Madrid
-🎯  Current goal: Keep learning technologies, frontend and devops. 
+🌎 Based in: Spain, Madrid  
+🎯  Current goal: Keep learning technologies, frontend and devops.  
 📧 Reach me at: mariodgxiii@gmail.com  
-🌐 Visit my portfolio: Work in progress
+🌐 Visit my portfolio: Work in progress  
 
 ---
 
