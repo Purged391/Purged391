@@ -38,7 +38,7 @@ I am a FullStack Developer passionate about creating applications, frontend and 
 ### 🌐 Find me on:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mario-domínguez-garcía-29b371241)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tuusuario](https://github.com/Purged391 )
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Purged391)
 
 ---
 
